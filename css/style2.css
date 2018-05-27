@@ -1,0 +1,52 @@
+
+html {
+   height: 100%;
+}
+
+body {
+   height: auto !important;
+   position: relative;
+   font-family: Georgia;
+   font-size:18px;
+   color: #1b1b1b;
+   margin: 0 auto;
+   padding-top: 20px;
+    line-height: 1.5;
+  }
+
+  h1 {
+   font-size: 60px;
+   font-weight: 700;
+   font-style: normal;
+   font-variant: normal;
+   text-decoration: none;
+   vertical-align: baseline;
+   line-height: 1.5;
+  }
+
+  h4 {
+   font-size: 18px;
+   font-weight: 700;
+   margin-bottom: 0;
+  }
+
+  a {
+   font-family: Georgia;
+   font-size:18px;
+   display: inline;
+   text-decoration: underline;
+   color: #416ed2;
+  }
+
+  span {
+    line-height: 1.5;
+  }
+
+  xmp {
+   font-family: Georgia;
+   font-size: 16px; 
+   color: ##1b1b1b;
+   line-height: 1.5;
+   max-width: 602px;
+   margin: 0 auto;"
+  }
